@@ -1,7 +1,3 @@
-Mana, HTML o‘rganishning **1- va 2-kuni** uchun batafsil qo‘llanma. Har bir kun bosqichma-bosqich tushuntirishlar, misollar va mashq topshiriqlarini o‘z ichiga oladi, bu esa o‘rganganlaringizni mustahkamlashga yordam beradi. Keling, boshlaymiz!
-
----
-
 ### **HTML ga kirish**
 
 **Maqsad:** HTML asosiy tuzilishini tushunish va birinchi HTML hujjatingizni yaratish.
